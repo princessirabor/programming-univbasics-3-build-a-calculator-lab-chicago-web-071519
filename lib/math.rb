@@ -15,15 +15,15 @@ end
 
 def multiplication(num1, num2)
  product = num1 * num2
- puts product
+ product
 end
 
 def modulo(num1, num2)
  mod = num1%num2
- puts mod
+ mod
 end
 
 def square_root(num)
-  sqrt = Math.sqrt(num)
-  puts sqrt
+  sqroot = Math.sqrt(num)
+  sqrt
 end
